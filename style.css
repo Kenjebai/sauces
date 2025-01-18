@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+header {
+    background-color: rgb(10, 207, 174);
+    margin: 0 0 3% 0;
+    padding: 5%;
+}
+img {
+    width: 100%;
+}
+h1 {
+    color: rgb(253, 252, 250);
+    padding: 6% 0 ;
+}
+.taste {
+    background-color: rgb(255, 0, 106);
+}
+.saturation {
+    background-color: rgb(59, 58, 58);
+}
+.difference {
+    color: #000;
+}
+.japan {
+    background-color: rgb(20, 224, 112);
+    color: rgb(255,255,255);
+}
+.buy {
+    background-color: rgb(66, 66, 245);
+}
+.grade {
+    background-color: rgb(75, 224, 235);
+    color: white;
+}
+.improvement {
+    color: #000;
+}
+.contact {
+    background-color: rgb(230, 123, 97);
+}
+button {
+    padding: 3px;
+    margin: 5px;
+}
+footer {
+    background-color: #000;
+    color: white;
+    height: 40px;
+    text-align: center;
+    align-content: center;
+}
+hr {
+    border-top: none;
+    margin-bottom: 5%;
+}
+.content {
+    width: 100%;
+}
+ul {
+    margin: auto;
+}
+ul li p {
+    text-align: center;
+    padding: 3%;
+}
+ul textarea{
+    width: 100%;
+}
+li {
+    text-align: left;
+    padding: 8%;
+    margin: 3% 0 3% 0;
+}
+input {
+    margin: 2%;
+}
